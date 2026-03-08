@@ -11,14 +11,17 @@
             "id": "bd6bd2ca68424253",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Древо квестов/Древо квестов.md",
-                "mode": "source",
-                "source": false
+                "file": "Древо квестов/Схема древа.canvas",
+                "viewState": {
+                  "x": 210,
+                  "y": 300,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Древо квестов"
+              "icon": "lucide-layout-dashboard",
+              "title": "Схема древа"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Древо квестов/Древо квестов.md",
+                "file": "Древо квестов/Схема древа.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Древо квестов"
+              "title": "Backlinks for Схема древа"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Древо квестов/Древо квестов.md",
+                "file": "Древо квестов/Схема древа.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Древо квестов"
+              "title": "Outgoing links from Схема древа"
             }
           },
           {
@@ -156,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Древо квестов/Древо квестов.md",
+                "file": "Древо квестов/Схема древа.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Древо квестов"
+              "title": "Outline of Схема древа"
             }
           },
           {
@@ -194,8 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd6bd2ca68424253",
+  "active": "1d3a800abfcbe729",
   "lastOpenFiles": [
+    "Древо квестов/Сегменты",
+    "Древо квестов/Древо квестов.md",
+    "Древо квестов/Сегменты/Сегмент Начало.md",
     "README.md",
     "Предметы/Старая книга/Модули/Модули для старой книги.md",
     "Предметы/Старая книга/Старая книга.md",
